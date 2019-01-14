@@ -1,0 +1,73 @@
+.view-smartdocs-models .view-filters {
+    float: left;
+    width: 230px;
+    min-height: 1500px;
+}
+
+.view-smartdocs-models .form-control {
+    border: none;
+    box-shadow: none;
+    transition: none;
+    background: none;
+}
+
+.form-type-bef-checkbox {
+    clear: both;
+}
+
+.form-type-bef-checkbox input {
+    float: left;
+    width: 15px;
+}
+
+.form-type-bef-checkbox label {
+    float: left;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+
+.view-smartdocs-models ul {
+    list-style: none;
+}
+
+.view-smartdocs-models ul li {
+    float: left;
+    width: 270px;
+    box-shadow: 1px 1px 11px 0px rgba(0, 0, 0, 0.26);
+    border-radius: 4px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    min-height: 150px;
+    cursor: pointer;
+    background: #ffffff;
+    border: #e0e0e0;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.view-smartdocs-models .views-field.views-field-name {
+    margin: 15px;
+    text-align: center;
+}
+
+.view-smartdocs-models .bef-checkboxes label {
+    color: #666;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.view-smartdocs-models label[for=edit-field-model-category-tid]
+{
+    font-size: 16px;
+}
+
+.view-smartdocs-models .views-field-field-model-image-fa-icon {
+    text-align:center;
+    margin-top:20px;
+}
+
+#edit-field-model-category-tid-wrapper {
+    background: #a9b5bf6b;
+    padding: 15px 20px !important;
+    border-radius: 5px;
+}

@@ -1,0 +1,68 @@
+name = Apigee MD
+description = Material Design theme for Apigee Developer Portals
+core = 7.x
+base theme = apigee_responsive
+
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer]         = 'Footer'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Apigee Specific Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[homepage_header] = Homepage Header
+regions[frontpage_panel_left] = Frontpage Panel Left
+regions[frontpage_panel_center] = Frontpage Panel Center
+regions[frontpage_panel_right] = Frontpage Panel Right
+
+; Settings
+; --------------
+settings[bootstrap_navbar_position] = 'static-top'
+settings[bootstrap_navbar_inverse] = 1
+settings[bootstrap_tooltip_placement] = 'top'
+settings[bootstrap_region_well-sidebar_second] = 'well'
+settings[bootstrap_region_well-sidebar_first] = 'well'
+settings[bootstrap_cdn] = 0
+
+settings[header_bg_color] = #FFFFFF
+settings[header_txt_color] = #0c4678
+settings[header_hover_bg_color] = #e4e4e4
+settings[header_hover_txt_color] = #c01012
+settings[link_color] = #137AAA
+settings[link_hover_color] = #0B4965
+settings[footer_bg_color] = #FFFFFF
+settings[footer_link_color] = #0B4965
+settings[footer_link_hover_color] = #0B4965
+settings[button_background_color] = #009FD0
+settings[button_text_color] = #FFFFFF
+
+
+stylesheets[all][] = css/apigee_md.css
+stylesheets[all][] = css/animate.css
+stylesheets[all][] = css/material.css
+stylesheets[all][] = css/responsive.css
+stylesheets[all][] = css/ripples.min.css
+stylesheets[all][] = css/responsive.css
+stylesheets[all][] = css/roboto.min.css
+stylesheets[all][] = css/settings.css
+stylesheets[all][] = css/apicatalog.css
+
+scripts[] = js/count-to.js
+scripts[] = js/wow.js
+scripts[] = js/material.js
+scripts[] = js/ripples.min.js
+scripts[] = js/apigee_md.js
