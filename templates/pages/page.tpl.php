@@ -346,7 +346,7 @@ $can_register = (variable_get('user_register', USER_REGISTER_VISITORS_ADMINISTRA
                     Interactive Documentation with SDKs
                   </h3>
                   <p>
-                    The portal provides you with a self service interactive documentation that lets you test APIs with sample requests, you can also change the parameter values to understannd the API better. There are pre-built SDKs available for each API so that you can get a headstart.
+                    The portal provides you with a self service interactive documentation that lets you test APIs with sample requests, varied parameter values to understand the API better. There are pre-built SDKs available for each API giving you the much needed headstart.
                   </p>
                 </div>
               </div>
