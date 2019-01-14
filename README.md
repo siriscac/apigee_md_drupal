@@ -14,7 +14,10 @@ Material Design theme for Apigee Developer Portals based on Drupal 7
 If you have used the `Apigee Responsive` theme before, the same `DevConnect Settings` options are available on this theme too. It lets you customize things like Header Background Color, Header Text Color etc. For further customizations, you can edit
 `/css/apigee_md.css`
 
-## Changing the looks of Catlog Section
+### Changing the looks of Catalog Section
 [Please follow this guide](https://community.apigee.com/articles/43848/apigee-developer-portal-drupal-how-to-improve-user-1.html)
+
+### Changing the looks of SmartDocs page
+To change the looks of the SmartDocs page, you need to apply the template theme from `smartdocs_template` to your SmartDocs content individually.
 
 > Disclaimer : This is not an official Google Product.
