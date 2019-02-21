@@ -20,4 +20,10 @@ If you have used the `Apigee Responsive` theme before, the same `DevConnect Sett
 ### Changing the looks of SmartDocs page
 To change the looks of the SmartDocs page, you need to apply the template theme from `smartdocs_template` to your SmartDocs content individually.
 
+## Screenshots
+
+![1](https://github.com/siriscac/apigee_md_drupal/blob/master/screenshots/homepage.png?raw=true)
+![2](https://github.com/siriscac/apigee_md_drupal/blob/master/screenshots/catalog.png?raw=true)
+![3](https://github.com/siriscac/apigee_md_drupal/blob/master/screenshots/smartdocs.png?raw=true)
+
 > Disclaimer : This is not an official Google Product.
