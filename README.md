@@ -15,7 +15,7 @@ If you have used the `Apigee Responsive` theme before, the same `DevConnect Sett
 `/css/apigee_md.css`
 
 ### Changing the looks of Catalog Section
-[Please follow this guide](https://community.apigee.com/articles/43848/apigee-developer-portal-drupal-how-to-improve-user-1.html)
+[Use this module](https://github.com/siriscac/smartdocs_categories)
 
 ### Changing the looks of SmartDocs page
 To change the looks of the SmartDocs page, you need to apply the template theme from `smartdocs_template` to your SmartDocs content individually.
