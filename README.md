@@ -3,7 +3,7 @@ Material Design theme for Apigee Developer Portals based on Drupal 7
 
 ## How to use? 
 * Clone the repo
-* Create a new folder called `apigee_md` under `/profiles/apigee/themes` in your site source 
+* Create a new folder called `apigee_md` under `/sites/all/themes` in your site source 
 * Copy all contents from this repo paste in the `apigee_md` folder (you can ignore the `screenshots` and `smartdocs_template` folders)
 * Commit & Push the code to your source repo
 * Now, under the `Appearance` section in your drupal admin menu, you should see a new theme called `Apigee MD`
